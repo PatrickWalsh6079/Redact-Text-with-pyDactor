@@ -1,0 +1,16 @@
+I adapted the source code from https://github.com/hulto/pyDactor to use pyDactor on my computer.
+PyDactor is a tool used to redact text on images. The images are first run through the Google
+Tesseract OCR and then uses regular expressions to locate specific text that the user wants to 
+redact. 
+
+I had to make updates to the source code, for example some compatibility changes to make
+it work with Python 3, as well as changes to make it work on my Windows 10 machine.
+Installation and setup is explained in the pyDactor-Notebook along with any modifications that
+you might have to do. 
+
+Below is an example of a .JPG image of a document before and after redaction
+using pyDactor. Enjoy!
+
+![Alt text]("C:\Users\pwalsh\pyDactor\docs\3270_1.jpg"raw=true "Before Redaction")
+
+![Alt text]("C:\Users\pwalsh\pyDactor\docs_redacted\3270_1_redact.jpg"raw=true "After Redaction")
