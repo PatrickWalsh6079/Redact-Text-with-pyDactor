@@ -8,9 +8,11 @@ it work with Python 3, as well as changes to make it work on my Windows 10 machi
 Installation and setup is explained in the pyDactor-Notebook along with any modifications that
 you might have to do. 
 
-Below is an example of a .JPG image of a document before and after redaction
-using pyDactor. Enjoy!
+You will find examples of a .JPG image of a document before and after redaction using pyDactor
+in the below folders. Enjoy!
 
-![Alt text](docs/3270_1.jpg?raw=true "Before Redaction")
+"Before Redaction"
+/docs/3270_1.jpg?
 
-![Alt text](/PatrickWalsh6079/Redact-Text-with-pyDactor/blob/master/docs_redacted/3270_1_redacted.jpg?raw=true "After Redaction")
+"After Redaction"
+/docs_redacted/3270_1_redacted.jpg
