@@ -11,6 +11,6 @@ you might have to do.
 Below is an example of a .JPG image of a document before and after redaction
 using pyDactor. Enjoy!
 
-![Alt text](/PatrickWalsh6079/Redact-Text-with-pyDactor/blob/master/docs/3270_1.jpg?raw=true "Before Redaction")
+![Alt text](https://github.com/PatrickWalsh6079/Redact-Text-with-pyDactor/blob/master/docs/3270_1.jpg "Before Redaction")
 
 ![Alt text](/PatrickWalsh6079/Redact-Text-with-pyDactor/blob/master/docs_redacted/3270_1_redacted.jpg?raw=true "After Redaction")
